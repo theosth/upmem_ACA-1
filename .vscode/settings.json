@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "dpu.h": "c",
+        "stdio.h": "c",
+        "dpu_log.h": "c",
+        "stdint.h": "c",
+        "mutex.h": "c"
+    }
+}
